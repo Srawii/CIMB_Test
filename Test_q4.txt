@@ -1,0 +1,8 @@
+## Q4
+What is the hardest question please explain
+ - Why it is hard
+ - What kind of solution that you solve it
+
+ ## Answer ==> Q3
+    - Because it's about fibonacci number, so it's take a long time to find the pattern of the number
+    - writes down on paper to find the pattern
